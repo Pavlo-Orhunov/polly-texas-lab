@@ -21,7 +21,7 @@ email      : myllena@txstate.edu #this is also the email contact forms will go t
 description: "Website dedicated to explain more about our subjective quality experiment in light field image"
 author     : Myllena de Aleida Prado
 logo:     #optional, defaults to site title
-  path: assets\img\W-NEW_P_TXSTATE_RGB_Primary_3color_V-01.jpg
+  path: assets/img/W-NEW_P_TXSTATE_RGB_Primary_3color_V-01.jpg
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
